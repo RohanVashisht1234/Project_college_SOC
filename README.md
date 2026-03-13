@@ -1,4 +1,4 @@
-# CyberWatch SOC Services Pvt. Ltd.
+# 🛡️ CyberWatch SOC Services Pvt. Ltd.
 ### Case Study 94 — Security Operations Center Analysis
 **B.Tech CSE 2024–28 | Semester IV | Business Studies**
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Table of Contents
+## 📋 Table of Contents
 
 1. [Business Problem Statement](#-business-problem-statement)
 2. [Key Financial Parameters](#-key-financial-parameters)
@@ -24,7 +24,25 @@
 
 ---
 
-## Business Problem Statement
+## 📌 Assignment Description
+
+Students are required to analyze the assigned case study and evaluate the proposed business or technology solution. The task involves understanding the problem scenario, performing financial and technical analysis, and assessing the impact of the solution on business performance, efficiency, and customer satisfaction. Students should use logical reasoning, calculations, and data interpretation to support their conclusions.
+
+### Expected Deliverables
+
+| # | Deliverable | Description |
+|---|---|---|
+| 1 | **Problem Analysis** | Brief understanding of the case study scenario and objectives |
+| 2 | **Financial Analysis** | Required calculations such as revenue, savings, or net benefit |
+| 3 | **Technical/Data Analysis** | Identification of important data variables and explanation of their role in the system |
+| 4 | **Business Impact Evaluation** | Explanation of how the solution affects efficiency, cost, customer satisfaction, or business growth |
+| 5 | **Recommendation** | Final decision on whether the proposed solution should be implemented, supported with justification |
+
+> All five deliverables are addressed in this project — see the sections below and the [Colab notebook](https://colab.research.google.com/drive/14NOl6ZWOTsZz5dW4srhKQI9TuCFp1-08?usp=sharing) for full implementation.
+
+---
+
+## 🏢 Business Problem Statement
 
 **CyberWatch SOC Services Pvt. Ltd.** is a Hyderabad-based cybersecurity startup planning to establish a 24/7 **Security Operations Center (SOC)** to provide continuous threat monitoring and incident response for:
 
@@ -39,7 +57,7 @@ The core question: **Is it financially viable and technically sustainable to inv
 
 ---
 
-##  Key Financial Parameters
+## 💰 Key Financial Parameters
 
 | Parameter | Value |
 |---|---|
@@ -54,7 +72,7 @@ The core question: **Is it financially viable and technically sustainable to inv
 
 ---
 
-##  Economic Concepts Applied
+## 📚 Economic Concepts Applied
 
 ### 1. Cost–Benefit Analysis (CBA)
 
@@ -70,7 +88,7 @@ Total Costs    (5 yrs) = ₹6 Cr + (₹2 Cr × 5) = ₹16.0 Crores
 Cost-Benefit Ratio (CBR) = ₹22.5 Cr / ₹16 Cr = 1.41x  ✅ (> 1 = viable)
 ```
 
->  Full CBA: [Google Sheets Model](https://docs.google.com/spreadsheets/d/1NPxXCtya3yOMGMqTijXFiXe9D6kKXA14erGOMI1Mh2A/edit?gid=410792799#gid=410792799)
+> 📊 Full CBA: [Google Sheets Model](https://docs.google.com/spreadsheets/d/1NPxXCtya3yOMGMqTijXFiXe9D6kKXA14erGOMI1Mh2A/edit?gid=410792799#gid=410792799)
 
 ### 2. Net Present Value (NPV)
 
@@ -123,7 +141,7 @@ Recurring annual subscriptions provide **predictable, compounding revenue**. The
 
 ---
 
-##  AI Techniques Used
+## 🤖 AI Techniques Used
 
 ### 1. Synthetic Data Generation
 
@@ -226,7 +244,7 @@ PCA reduces 7 clustering features to 2 dimensions for visual cluster separation.
 
 ---
 
-##  Project Structure
+## 📁 Project Structure
 
 ```
 CyberWatch-SOC-CaseStudy94/
@@ -251,7 +269,7 @@ CyberWatch-SOC-CaseStudy94/
 
 ---
 
-##  Answers to Case Study Questions
+## ❓ Answers to Case Study Questions
 
 ### Q1. Total Annual Subscription Revenue
 ```
@@ -307,7 +325,7 @@ Better SOC Operations
 
 ---
 
-##  Model Results
+## 📊 Model Results
 
 ### Financial Summary
 
@@ -353,7 +371,7 @@ Better SOC Operations
 
 ---
 
-##  How to Run
+## 🚀 How to Run
 
 ### Option 1: Streamlit App (Deployed)
 **[project-college-soc.streamlit.app](https://project-college-soc.streamlit.app/)**
@@ -375,7 +393,7 @@ All dependencies install automatically via `!pip install` in the first cell.
 
 ---
 
-## Final Recommendation
+## ✅ Final Recommendation
 
 > **CyberWatch SOC Services Pvt. Ltd. SHOULD establish the Security Operations Center.**
 
