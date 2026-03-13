@@ -3,11 +3,12 @@
 **B.Tech CSE 2024–28 | Semester IV | Business Studies**
 
 ---
+## Important Links:
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://project-college-soc.streamlit.app/)
 [![Google Colab](https://img.shields.io/badge/Colab-Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/14NOl6ZWOTsZz5dW4srhKQI9TuCFp1-08?usp=sharing)
 [![CBA Sheet](https://img.shields.io/badge/Google%20Sheets-CBA%20Model-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1NPxXCtya3yOMGMqTijXFiXe9D6kKXA14erGOMI1Mh2A/edit?gid=410792799#gid=410792799)
-
+[![Google Docs](https://img.shields.io/badge/Google%20Docs-Project%20Document-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/10z_mwrVkfPCBKKKWrn3AASTT6VqrXOdL_OeQ82l_C3Q/edit?usp=sharing)
 ---
 
 ## 📋 Table of Contents
