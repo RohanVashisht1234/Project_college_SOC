@@ -14,7 +14,7 @@
 ## 📋 Table of Contents
 
 1. [Business Problem Statement](#-business-problem-statement)
-2. [Graph Images](#-graph-images)
+2. [Graph Images](#graph-images)
 3. [Key Financial Parameters](#-key-financial-parameters)
 4. [Economic Concepts Applied](#-economic-concepts-applied)
 5. [AI Techniques Used](#-ai-techniques-used)
