@@ -40,13 +40,29 @@
 
 ### Scatter Plots -- Key Relationships
 <img width="1784" height="492" alt="image" src="https://github.com/user-attachments/assets/12106402-9b97-4a7d-a9c1-f067542c8469" />
+
+### Performance Benchmarks by Segment
 <img width="1084" height="584" alt="image" src="https://github.com/user-attachments/assets/58ca895e-de1e-4c3c-8d13-760333c7ac29" />
+
+### Feature Scaling + Elbow and Silhouette
 <img width="1384" height="492" alt="image" src="https://github.com/user-attachments/assets/f36d1d71-e38c-436e-be1a-a803bd509535" />
+
+### Cluster PCA Visualization
 <img width="1584" height="590" alt="image" src="https://github.com/user-attachments/assets/fe4cbbf0-a6d4-4b68-98f6-5bd56e48a011" />
+
+### Cluster Radar Chart
 <img width="644" height="523" alt="image" src="https://github.com/user-attachments/assets/b6d05f87-55c3-41a2-976c-3aa8a3953a93" />
+
+### Regression Diagnostics
 <img width="1384" height="1080" alt="image" src="https://github.com/user-attachments/assets/5528145a-8a65-4544-b273-f51e2f60d66b" />
+
+### What-If Scenario Analysis
 <img width="1184" height="484" alt="image" src="https://github.com/user-attachments/assets/0d48aa9e-55eb-44a0-8854-a1db076f8cad" />
+
+### Customer Lifetime Value (CLV) Analysis
 <img width="1384" height="492" alt="image" src="https://github.com/user-attachments/assets/f393ebfe-5e74-4d14-902a-25ce68cce147" />
+
+### Executive Summary Dashboard
 <img width="1758" height="924" alt="image" src="https://github.com/user-attachments/assets/785637e5-7a8d-4820-bc02-459c5bc04358" />
 
 
