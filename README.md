@@ -14,14 +14,41 @@
 ## 📋 Table of Contents
 
 1. [Business Problem Statement](#-business-problem-statement)
-2. [Key Financial Parameters](#-key-financial-parameters)
-3. [Economic Concepts Applied](#-economic-concepts-applied)
-4. [AI Techniques Used](#-ai-techniques-used)
-5. [Project Structure](#-project-structure)
-6. [Answers to Case Study Questions](#-answers-to-case-study-questions)
-7. [Model Results](#-model-results)
-8. [How to Run](#-how-to-run)
-9. [Final Recommendation](#-final-recommendation)
+2. [Graph Images](#-graph-images)
+3. [Key Financial Parameters](#-key-financial-parameters)
+4. [Economic Concepts Applied](#-economic-concepts-applied)
+5. [AI Techniques Used](#-ai-techniques-used)
+6. [Project Structure](#-project-structure)
+7. [Answers to Case Study Questions](#-answers-to-case-study-questions)
+8. [Model Results](#-model-results)
+9. [How to Run](#-how-to-run)
+10. [Final Recommendation](#-final-recommendation)
+
+## Graph Images
+
+### 5-Year Financial Projection Chart
+<img width="1584" height="590" alt="image" src="https://github.com/user-attachments/assets/ed7e949a-3657-43f4-a6fa-25573119e267" />
+
+### Distribution Plots
+<img width="1775" height="982" alt="image" src="https://github.com/user-attachments/assets/1efcecd3-6e4c-4444-bdcb-eb0edc013e07" />
+
+### Client Segment Analysis
+<img width="1235" height="492" alt="image" src="https://github.com/user-attachments/assets/3fc08de1-8f1e-4508-9742-1737d7fc6a42" />
+
+### Correlation Heatmap
+<img width="1149" height="984" alt="image" src="https://github.com/user-attachments/assets/5378b5c5-4cf0-4d8e-9583-2e461115575c" />
+
+### Scatter Plots -- Key Relationships
+<img width="1784" height="492" alt="image" src="https://github.com/user-attachments/assets/12106402-9b97-4a7d-a9c1-f067542c8469" />
+<img width="1084" height="584" alt="image" src="https://github.com/user-attachments/assets/58ca895e-de1e-4c3c-8d13-760333c7ac29" />
+<img width="1384" height="492" alt="image" src="https://github.com/user-attachments/assets/f36d1d71-e38c-436e-be1a-a803bd509535" />
+<img width="1584" height="590" alt="image" src="https://github.com/user-attachments/assets/fe4cbbf0-a6d4-4b68-98f6-5bd56e48a011" />
+<img width="644" height="523" alt="image" src="https://github.com/user-attachments/assets/b6d05f87-55c3-41a2-976c-3aa8a3953a93" />
+<img width="1384" height="1080" alt="image" src="https://github.com/user-attachments/assets/5528145a-8a65-4544-b273-f51e2f60d66b" />
+<img width="1184" height="484" alt="image" src="https://github.com/user-attachments/assets/0d48aa9e-55eb-44a0-8854-a1db076f8cad" />
+<img width="1384" height="492" alt="image" src="https://github.com/user-attachments/assets/f393ebfe-5e74-4d14-902a-25ce68cce147" />
+<img width="1758" height="924" alt="image" src="https://github.com/user-attachments/assets/785637e5-7a8d-4820-bc02-459c5bc04358" />
+
 
 ---
 
